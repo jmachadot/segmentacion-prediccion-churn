@@ -64,30 +64,8 @@ Naive Bayes |	0.7143 |	0.8333 |	0.7692 |	0.8819
 
 ## Instalación y Uso
 
-1. **Clonar el repositorio:**
-```bash
-git clone https://github.com/jmachadot/segmentacion-prediccion-churn.git
-cd segmentacion-prediccion-churn
+1. Abrir el código en Colab.
 
-```
+2. Copiar el dataset a la ruta de colab "/content/sample_data/Data.xlsx".
 
-
-2. **Instalar dependencias:**
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn openpyxl xgboost
-
-```
-
-
-3. **Ejecutar el script:**
-Asegúrate de tener el archivo `Data.xlsx` en la raíz del directorio.
-```bash
-python main.py
-
-```
-
----
-
-*Este proyecto fue desarrollado como parte de un análisis avanzado de cartera para optimizar la retención de clientes mediante modelos de Machine Learning.*
-
----
+3. Clic en Ejecutar Todo.
